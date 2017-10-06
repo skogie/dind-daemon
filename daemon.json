@@ -1,0 +1,3 @@
+{
+  "insecure-registries" : ["kube-registry.kube-system.svc.cluster.local:5000"]
+}
